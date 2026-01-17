@@ -1,4 +1,4 @@
-# Primeiro-repositorio
+# Primeiro repositório
 
 Este repositório representa meu primeiro passo prático no GitHub, onde organizo meus estudos em programação.
 
@@ -8,7 +8,7 @@ Este repositório representa meu primeiro passo prático no GitHub, onde organiz
   Exercícios de lógica e algoritmos desenvolvidos durante meus estudos iniciais.
 
  ## Python 
-  Scripts e projetos em Python à medida que avanço nos estudos da linguagem.
+   Exercícios  Scripts em Python à medida que avanço nos estudos da linguagem.
 
 ## Objetivo
 
