@@ -11,6 +11,6 @@ while mais != 0:
         termo += razão
         cont += 1
     print('PAUSA')
-    mais = int(input('quantos termos voçê quer mostrar a mais aqui? '))
+    mais = int(input('quantos termos você quer mostrar a mais aqui? '))
 print(
     f'-=-=-=- FIM -=-=-=- \nprogressão aritmética finalizada com {total} termos mostrados:')

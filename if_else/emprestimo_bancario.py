@@ -1,6 +1,6 @@
 casa = float(input('qual o valor da casa?'))
 salario = float(input('qual o valor do seu salario?'))
-ano = int(input('em quantos anos voçe vai pagar?'))
+ano = int(input('em quantos anos voce vai pagar?'))
 
 prestaçao = casa / (ano * 12)
 minimo = salario * 30 / 100

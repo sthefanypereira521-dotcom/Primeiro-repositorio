@@ -2,7 +2,7 @@ print('-=-' * 10)
 print(' SEQUÊNCIA DE FIBONACCI ')
 print('-=-' * 10)
 
-n = int(input('\nquantos termos voçe quer mostrar? '))
+n = int(input('\nquantos termos voce quer mostrar? '))
 t1 = 0
 t2 = 1
 print('=-' * 50)

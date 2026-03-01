@@ -2,7 +2,7 @@ from random import randint
 computador = randint(0, 10)
 
 print('aqui é o computador pensei em um número entre 0 e 10')
-print('será que voçe acerta qual foi? ')
+print('será que voce acerta qual foi? ')
 acertou = False
 palpites = 0
 
