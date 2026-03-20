@@ -1,6 +1,6 @@
 # Primeiro repositório
 
-Este repositório aqui organizo  meus estudos  de programaçao e github
+Este repositório  organizo  meus estudos  de programaçao e github
 
 ## Conteúdo
 
@@ -8,7 +8,7 @@ Este repositório aqui organizo  meus estudos  de programaçao e github
   Exercícios de lógica e algoritmos desenvolvidos durante meus estudos iniciais.
 
  ## Python 
-   Exercícios  Scripts em Python à medida que avanço nos estudos da linguagem.
+   Scripts exercicios em Python à medida que avanço nos estudos da linguagem.
 
  ## PostgreSQL
    Estudos e práticas com banco de dados relacional.
