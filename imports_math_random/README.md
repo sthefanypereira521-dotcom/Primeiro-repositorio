@@ -1,2 +1,2 @@
-## Exercícios com módulos 
-de data e hora datetime, time.
+## Exercícios 
+Exercícios utilizando as bibliotecas math e random.
