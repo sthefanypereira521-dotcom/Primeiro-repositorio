@@ -1,3 +1,3 @@
-## Exercícios Básicos 
+## Exercícios 
 variáveis, tipos de dados,
 entrada/saída e operações simples.
