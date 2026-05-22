@@ -55,6 +55,12 @@ Este repositório  organizo  meus estudos  de programaçao e github
 - Me tornar desenvolvedora backend com Python  
 
 
+## Status
+
+Em desenvolvimento 
+
+
+
 ## Como Usar
  
  ### Clone o repositório:
@@ -69,6 +75,3 @@ cd estrutura_dados
 python nome_do_arquivo.py
 
 
-## Status
-
-Em desenvolvimento 
