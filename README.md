@@ -1,26 +1,8 @@
 # Estudos-Backend 
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,fastapi,git,github)](https://skillicons.dev)
 
 
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-336791?style=flat-square&logo=postgresql)
-
-
-
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-green?style=flat-square&logo=fastapi)
-
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-
-
-
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 
 
 
